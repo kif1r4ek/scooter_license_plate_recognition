@@ -1,0 +1,12 @@
+{
+  "name": "whoosh-lpr",
+  "version": "0.1.0",
+  "description": "Reads Whoosh scooter numbers from phone photos",
+  "dependencies": [
+    { "name": "opencv4", "default-features": false, "features": ["jpeg", "png", "webp"] },
+    "cli11",
+    "nlohmann-json",
+    "spdlog",
+    "gtest"
+  ]
+}

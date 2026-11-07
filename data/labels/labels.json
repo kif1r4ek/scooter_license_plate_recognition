@@ -1,0 +1,6961 @@
+{
+ "meta": {
+  "format": "pts = 4 corners in original pixels after EXIF rotation, order: text top-left, top-right, bottom-right, bottom-left",
+  "text": "what is physically readable on this plate, not the file name",
+  "complete": "false = part of the number is cut off, hidden or worn away; exclude from OCR training",
+  "uncertain": "true = reading is doubtful, needs a human check"
+ },
+ "images": {
+  "AG2754_OR_PA5046": {
+   "file": "AG2754_OR_PA5046.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AG2754",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       781,
+       1229
+      ],
+      [
+       828,
+       1438
+      ],
+      [
+       750,
+       1456
+      ],
+      [
+       702,
+       1248
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PA5046",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "near",
+     "pts": [
+      [
+       1085,
+       2047
+      ],
+      [
+       1303,
+       1812
+      ],
+      [
+       1413,
+       1918
+      ],
+      [
+       1196,
+       2152
+      ]
+     ]
+    }
+   ]
+  },
+  "AG2799": {
+   "file": "AG2799.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AG2799",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1159,
+       2812
+      ],
+      [
+       1379,
+       2001
+      ],
+      [
+       1715,
+       2093
+      ],
+      [
+       1496,
+       2904
+      ]
+     ]
+    }
+   ]
+  },
+  "AG2938(1)": {
+   "file": "AG2938(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AG2938",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       2343,
+       1913
+      ],
+      [
+       2506,
+       2563
+      ],
+      [
+       2222,
+       2634
+      ],
+      [
+       2060,
+       1984
+      ]
+     ]
+    }
+   ]
+  },
+  "AG2938(2)": {
+   "file": "AG2938(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AG2938",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       2249,
+       1317
+      ],
+      [
+       2312,
+       1674
+      ],
+      [
+       2121,
+       1709
+      ],
+      [
+       2058,
+       1351
+      ]
+     ]
+    }
+   ]
+  },
+  "AG2938": {
+   "file": "AG2938.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AG2938",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       2371,
+       2435
+      ],
+      [
+       2436,
+       2703
+      ],
+      [
+       2337,
+       2727
+      ],
+      [
+       2272,
+       2459
+      ]
+     ]
+    }
+   ]
+  },
+  "AJ8415_OR_AP7114_OR_PH2146": {
+   "file": "AJ8415_OR_AP7114_OR_PH2146.jpg",
+   "width": 2560,
+   "height": 1920,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AJ8415",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       882,
+       476
+      ],
+      [
+       1102,
+       175
+      ],
+      [
+       1218,
+       259
+      ],
+      [
+       997,
+       561
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AP7114",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1072,
+       1033
+      ],
+      [
+       1411,
+       512
+      ],
+      [
+       1588,
+       625
+      ],
+      [
+       1249,
+       1145
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PH2146",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1374,
+       1652
+      ],
+      [
+       1806,
+       1123
+      ],
+      [
+       1974,
+       1257
+      ],
+      [
+       1543,
+       1787
+      ]
+     ]
+    }
+   ]
+  },
+  "AK5409_OR_PE5436": {
+   "file": "AK5409_OR_PE5436.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE5436",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1477,
+       534
+      ],
+      [
+       1506,
+       669
+      ],
+      [
+       1455,
+       680
+      ],
+      [
+       1426,
+       545
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AK5409",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       916,
+       1364
+      ],
+      [
+       1021,
+       1569
+      ],
+      [
+       936,
+       1614
+      ],
+      [
+       832,
+       1409
+      ]
+     ]
+    }
+   ]
+  },
+  "AK6358": {
+   "file": "AK6358.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AK6358",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1139,
+       1271
+      ],
+      [
+       1034,
+       1047
+      ],
+      [
+       1095,
+       1019
+      ],
+      [
+       1201,
+       1243
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "PE2015",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       417,
+       850
+      ],
+      [
+       492,
+       827
+      ],
+      [
+       538,
+       927
+      ],
+      [
+       468,
+       950
+      ]
+     ]
+    }
+   ]
+  },
+  "AK6358_OR_AK8460": {
+   "file": "AK6358_OR_AK8460.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AK6358",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       779,
+       505
+      ],
+      [
+       782,
+       393
+      ],
+      [
+       815,
+       393
+      ],
+      [
+       811,
+       505
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AK8460",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1136,
+       1367
+      ],
+      [
+       1192,
+       1144
+      ],
+      [
+       1269,
+       1164
+      ],
+      [
+       1213,
+       1386
+      ]
+     ]
+    }
+   ]
+  },
+  "AK8299(1)": {
+   "file": "AK8299(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AK8299",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1432,
+       2195
+      ],
+      [
+       1485,
+       1957
+      ],
+      [
+       1569,
+       1975
+      ],
+      [
+       1516,
+       2214
+      ]
+     ]
+    }
+   ]
+  },
+  "AK8299(2)": {
+   "file": "AK8299(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AK8299",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1233,
+       2366
+      ],
+      [
+       1452,
+       1807
+      ],
+      [
+       1699,
+       1907
+      ],
+      [
+       1480,
+       2466
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PE2220",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       178,
+       1260
+      ],
+      [
+       192,
+       1078
+      ],
+      [
+       265,
+       1086
+      ],
+      [
+       251,
+       1269
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AP5114",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       604,
+       1217
+      ],
+      [
+       629,
+       1049
+      ],
+      [
+       702,
+       1059
+      ],
+      [
+       677,
+       1228
+      ]
+     ]
+    }
+   ]
+  },
+  "AK8299": {
+   "file": "AK8299.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AK8299",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1665,
+       1937
+      ],
+      [
+       1608,
+       2366
+      ],
+      [
+       1434,
+       2342
+      ],
+      [
+       1491,
+       1914
+      ]
+     ]
+    }
+   ]
+  },
+  "AK8452(1)": {
+   "file": "AK8452(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AK8452",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1600,
+       2062
+      ],
+      [
+       1654,
+       2351
+      ],
+      [
+       1505,
+       2380
+      ],
+      [
+       1451,
+       2091
+      ]
+     ]
+    }
+   ]
+  },
+  "AK8452": {
+   "file": "AK8452.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AK8452",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       2018,
+       1427
+      ],
+      [
+       1998,
+       2190
+      ],
+      [
+       1653,
+       2182
+      ],
+      [
+       1672,
+       1420
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AK8299",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       3065,
+       522
+      ],
+      [
+       3052,
+       709
+      ],
+      [
+       2992,
+       699
+      ],
+      [
+       3021,
+       512
+      ]
+     ]
+    }
+   ]
+  },
+  "AK8452_OR_AP5114": {
+   "file": "AK8452_OR_AP5114.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5114",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       676,
+       1602
+      ],
+      [
+       683,
+       1363
+      ],
+      [
+       771,
+       1366
+      ],
+      [
+       764,
+       1605
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AK8452",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1449,
+       2085
+      ],
+      [
+       1535,
+       1852
+      ],
+      [
+       1638,
+       1890
+      ],
+      [
+       1551,
+       2125
+      ]
+     ]
+    }
+   ]
+  },
+  "AK9201(1)": {
+   "file": "AK9201(1).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AK9201",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1311,
+       1345
+      ],
+      [
+       1168,
+       900
+      ],
+      [
+       1290,
+       860
+      ],
+      [
+       1433,
+       1305
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PH10",
+     "complete": false,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       353,
+       1336
+      ],
+      [
+       246,
+       955
+      ],
+      [
+       300,
+       929
+      ],
+      [
+       433,
+       1262
+      ]
+     ]
+    }
+   ]
+  },
+  "AK9201": {
+   "file": "AK9201.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AK9201",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       850,
+       1444
+      ],
+      [
+       909,
+       947
+      ],
+      [
+       998,
+       909
+      ],
+      [
+       932,
+       1441
+      ]
+     ]
+    }
+   ]
+  },
+  "AK9201_OR_AP6096": {
+   "file": "AK9201_OR_AP6096.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AK9201",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       70,
+       1297
+      ],
+      [
+       57,
+       879
+      ],
+      [
+       216,
+       874
+      ],
+      [
+       229,
+       1292
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AP6096",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       857,
+       1630
+      ],
+      [
+       861,
+       990
+      ],
+      [
+       998,
+       990
+      ],
+      [
+       994,
+       1630
+      ]
+     ]
+    }
+   ]
+  },
+  "AK9201_OR_AP6096_OR_AN5882": {
+   "file": "AK9201_OR_AP6096_OR_AN5882.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AK9201",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       561,
+       1337
+      ],
+      [
+       479,
+       1146
+      ],
+      [
+       549,
+       1115
+      ],
+      [
+       630,
+       1305
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AN5882",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1281,
+       1404
+      ],
+      [
+       1197,
+       1114
+      ],
+      [
+       1285,
+       1087
+      ],
+      [
+       1369,
+       1377
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AP6096",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       857,
+       1390
+      ],
+      [
+       734,
+       1124
+      ],
+      [
+       818,
+       1084
+      ],
+      [
+       941,
+       1350
+      ]
+     ]
+    }
+   ]
+  },
+  "AK9484": {
+   "file": "AK9484.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AK9484",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1640,
+       1820
+      ],
+      [
+       1977,
+       2526
+      ],
+      [
+       1627,
+       2698
+      ],
+      [
+       1291,
+       1990
+      ]
+     ]
+    }
+   ]
+  },
+  "AL0677(1)": {
+   "file": "AL0677(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AL0677",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1615,
+       2044
+      ],
+      [
+       1686,
+       1908
+      ],
+      [
+       1749,
+       1939
+      ],
+      [
+       1679,
+       2078
+      ]
+     ]
+    }
+   ]
+  },
+  "AL0677(2)": {
+   "file": "AL0677(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AL0677",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1570,
+       2034
+      ],
+      [
+       1746,
+       2277
+      ],
+      [
+       1611,
+       2379
+      ],
+      [
+       1434,
+       2137
+      ]
+     ]
+    }
+   ]
+  },
+  "AL0677(3)": {
+   "file": "AL0677(3).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AL0677",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1460,
+       1522
+      ],
+      [
+       1724,
+       2123
+      ],
+      [
+       1437,
+       2250
+      ],
+      [
+       1174,
+       1650
+      ]
+     ]
+    }
+   ]
+  },
+  "AL0677": {
+   "file": "AL0677.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AL0677",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1477,
+       2115
+      ],
+      [
+       1673,
+       1681
+      ],
+      [
+       1854,
+       1766
+      ],
+      [
+       1658,
+       2200
+      ]
+     ]
+    }
+   ]
+  },
+  "AM8698(1)": {
+   "file": "AM8698(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AM8698",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1231,
+       2449
+      ],
+      [
+       1475,
+       1583
+      ],
+      [
+       1880,
+       1701
+      ],
+      [
+       1636,
+       2566
+      ]
+     ]
+    }
+   ]
+  },
+  "AM8698": {
+   "file": "AM8698.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AM8698",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1415,
+       2288
+      ],
+      [
+       1545,
+       2022
+      ],
+      [
+       1712,
+       2107
+      ],
+      [
+       1583,
+       2371
+      ]
+     ]
+    }
+   ]
+  },
+  "AM9943": {
+   "file": "AM9943.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AM9743",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "near",
+     "pts": [
+      [
+       848,
+       1546
+      ],
+      [
+       919,
+       1325
+      ],
+      [
+       1019,
+       1358
+      ],
+      [
+       948,
+       1579
+      ]
+     ]
+    }
+   ]
+  },
+  "AN1303(1)": {
+   "file": "AN1303(1).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN1303",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       892,
+       1400
+      ],
+      [
+       897,
+       1149
+      ],
+      [
+       959,
+       1151
+      ],
+      [
+       954,
+       1401
+      ]
+     ]
+    }
+   ]
+  },
+  "AN1303": {
+   "file": "AN1303.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN1303",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1068,
+       1204
+      ],
+      [
+       1054,
+       972
+      ],
+      [
+       1114,
+       968
+      ],
+      [
+       1128,
+       1201
+      ]
+     ]
+    }
+   ]
+  },
+  "AN4551": {
+   "file": "AN4551.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN4551",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1116,
+       1651
+      ],
+      [
+       1153,
+       1338
+      ],
+      [
+       1265,
+       1353
+      ],
+      [
+       1226,
+       1665
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "PE7419",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "pair",
+     "pts": [
+      [
+       1569,
+       794
+      ],
+      [
+       1709,
+       753
+      ],
+      [
+       1739,
+       923
+      ],
+      [
+       1614,
+       957
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AP5590",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       1774,
+       333
+      ],
+      [
+       1783,
+       473
+      ],
+      [
+       1750,
+       474
+      ],
+      [
+       1741,
+       334
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PE7419",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       1353,
+       513
+      ],
+      [
+       1380,
+       674
+      ],
+      [
+       1352,
+       678
+      ],
+      [
+       1325,
+       516
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "PH.19.",
+     "complete": false,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       1032,
+       1198
+      ],
+      [
+       1144,
+       1208
+      ],
+      [
+       1139,
+       1331
+      ],
+      [
+       1037,
+       1334
+      ]
+     ]
+    }
+   ]
+  },
+  "AN4581": {
+   "file": "AN4581.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN4581",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       797,
+       3032
+      ],
+      [
+       1269,
+       1543
+      ],
+      [
+       2009,
+       1782
+      ],
+      [
+       1537,
+       3271
+      ]
+     ]
+    }
+   ]
+  },
+  "AN4610(1)": {
+   "file": "AN4610(1).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN4610",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       883,
+       1355
+      ],
+      [
+       886,
+       1085
+      ],
+      [
+       969,
+       1085
+      ],
+      [
+       966,
+       1355
+      ]
+     ]
+    }
+   ]
+  },
+  "AN4610": {
+   "file": "AN4610.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN4610",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1039,
+       1578
+      ],
+      [
+       1124,
+       1307
+      ],
+      [
+       1239,
+       1343
+      ],
+      [
+       1155,
+       1615
+      ]
+     ]
+    }
+   ]
+  },
+  "AN5011(1)": {
+   "file": "AN5011(1).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN5011",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       438,
+       692
+      ],
+      [
+       486,
+       748
+      ],
+      [
+       461,
+       769
+      ],
+      [
+       412,
+       716
+      ]
+     ]
+    }
+   ]
+  },
+  "AN5011(2)": {
+   "file": "AN5011(2).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN5011",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       426,
+       631
+      ],
+      [
+       494,
+       719
+      ],
+      [
+       440,
+       760
+      ],
+      [
+       372,
+       672
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PC5381",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "detector",
+     "pts": [
+      [
+       521,
+       397
+      ],
+      [
+       548,
+       264
+      ],
+      [
+       573,
+       269
+      ],
+      [
+       546,
+       401
+      ]
+     ]
+    }
+   ]
+  },
+  "AN5011": {
+   "file": "AN5011.jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN5011",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "near",
+     "pts": [
+      [
+       518,
+       590
+      ],
+      [
+       557,
+       769
+      ],
+      [
+       503,
+       780
+      ],
+      [
+       465,
+       602
+      ]
+     ]
+    }
+   ]
+  },
+  "AN5011_OR_PO5881(1)": {
+   "file": "AN5011_OR_PO5881(1).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN5011",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       495,
+       619
+      ],
+      [
+       526,
+       709
+      ],
+      [
+       491,
+       721
+      ],
+      [
+       460,
+       631
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PC5381",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       684,
+       641
+      ],
+      [
+       720,
+       564
+      ],
+      [
+       750,
+       578
+      ],
+      [
+       714,
+       655
+      ]
+     ]
+    }
+   ]
+  },
+  "AN5011_OR_PO5881": {
+   "file": "AN5011_OR_PO5881.jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN5011",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       190,
+       729
+      ],
+      [
+       240,
+       829
+      ],
+      [
+       194,
+       852
+      ],
+      [
+       144,
+       752
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PC5381",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       442,
+       732
+      ],
+      [
+       465,
+       644
+      ],
+      [
+       496,
+       651
+      ],
+      [
+       473,
+       739
+      ]
+     ]
+    }
+   ]
+  },
+  "AN5818(1)": {
+   "file": "AN5818(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN5818",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1421,
+       1604
+      ],
+      [
+       1505,
+       1935
+      ],
+      [
+       1399,
+       1962
+      ],
+      [
+       1315,
+       1631
+      ]
+     ]
+    }
+   ]
+  },
+  "AN5818": {
+   "file": "AN5818.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN5818",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1398,
+       1452
+      ],
+      [
+       1545,
+       2459
+      ],
+      [
+       1243,
+       2503
+      ],
+      [
+       1096,
+       1496
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AK8452",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       277,
+       1817
+      ],
+      [
+       352,
+       1312
+      ],
+      [
+       443,
+       1328
+      ],
+      [
+       368,
+       1832
+      ]
+     ]
+    }
+   ]
+  },
+  "AN5818_OR_AK8452": {
+   "file": "AN5818_OR_AK8452.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AK8452",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       2530,
+       1649
+      ],
+      [
+       2863,
+       1497
+      ],
+      [
+       2949,
+       1689
+      ],
+      [
+       2616,
+       1841
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AN5818",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1407,
+       2146
+      ],
+      [
+       1569,
+       1748
+      ],
+      [
+       1773,
+       1831
+      ],
+      [
+       1611,
+       2230
+      ]
+     ]
+    }
+   ]
+  },
+  "AN5822": {
+   "file": "AN5822.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN5822",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       948,
+       2492
+      ],
+      [
+       1267,
+       1382
+      ],
+      [
+       1740,
+       1522
+      ],
+      [
+       1420,
+       2632
+      ]
+     ]
+    }
+   ]
+  },
+  "AN5873": {
+   "file": "AN5873.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN5873",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1811,
+       1501
+      ],
+      [
+       2199,
+       3057
+      ],
+      [
+       1483,
+       3239
+      ],
+      [
+       1095,
+       1683
+      ]
+     ]
+    }
+   ]
+  },
+  "AN5882": {
+   "file": "AN5882.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN5882",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       805,
+       1508
+      ],
+      [
+       767,
+       925
+      ],
+      [
+       882,
+       919
+      ],
+      [
+       919,
+       1501
+      ]
+     ]
+    }
+   ]
+  },
+  "AN6475(1)": {
+   "file": "AN6475(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN6475",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1493,
+       1517
+      ],
+      [
+       1656,
+       1895
+      ],
+      [
+       1481,
+       1969
+      ],
+      [
+       1321,
+       1591
+      ]
+     ]
+    }
+   ]
+  },
+  "AN6475(2)": {
+   "file": "AN6475(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN6475",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1419,
+       1357
+      ],
+      [
+       1580,
+       2001
+      ],
+      [
+       1348,
+       2061
+      ],
+      [
+       1187,
+       1417
+      ]
+     ]
+    }
+   ]
+  },
+  "AN6475(3)": {
+   "file": "AN6475(3).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN6475",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1376,
+       2136
+      ],
+      [
+       1497,
+       1283
+      ],
+      [
+       1774,
+       1325
+      ],
+      [
+       1653,
+       2176
+      ]
+     ]
+    }
+   ]
+  },
+  "AN6475": {
+   "file": "AN6475.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN6475",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1438,
+       1599
+      ],
+      [
+       1516,
+       1854
+      ],
+      [
+       1406,
+       1889
+      ],
+      [
+       1329,
+       1634
+      ]
+     ]
+    }
+   ]
+  },
+  "AN6656(1)": {
+   "file": "AN6656(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN6656",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       2132,
+       1185
+      ],
+      [
+       2236,
+       2302
+      ],
+      [
+       1723,
+       2351
+      ],
+      [
+       1620,
+       1233
+      ]
+     ]
+    }
+   ]
+  },
+  "AN6656(2)": {
+   "file": "AN6656(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN6656",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1327,
+       2304
+      ],
+      [
+       1387,
+       2040
+      ],
+      [
+       1465,
+       2060
+      ],
+      [
+       1405,
+       2324
+      ]
+     ]
+    }
+   ]
+  },
+  "AN6656(3)": {
+   "file": "AN6656(3).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN6656",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1543,
+       2267
+      ],
+      [
+       1689,
+       1857
+      ],
+      [
+       1855,
+       1918
+      ],
+      [
+       1709,
+       2327
+      ]
+     ]
+    }
+   ]
+  },
+  "AN6656": {
+   "file": "AN6656.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN6656",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1449,
+       1982
+      ],
+      [
+       1649,
+       1305
+      ],
+      [
+       1855,
+       1366
+      ],
+      [
+       1655,
+       2045
+      ]
+     ]
+    }
+   ]
+  },
+  "AN6681": {
+   "file": "AN6681.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN6681",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       903,
+       1312
+      ],
+      [
+       993,
+       1531
+      ],
+      [
+       896,
+       1574
+      ],
+      [
+       805,
+       1353
+      ]
+     ]
+    }
+   ]
+  },
+  "AN6822(1)": {
+   "file": "AN6822(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN6822",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1623,
+       2184
+      ],
+      [
+       1813,
+       1263
+      ],
+      [
+       2092,
+       1324
+      ],
+      [
+       1902,
+       2246
+      ]
+     ]
+    }
+   ]
+  },
+  "AN6822(2)": {
+   "file": "AN6822(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN6822",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1961,
+       1696
+      ],
+      [
+       2067,
+       2071
+      ],
+      [
+       1931,
+       2111
+      ],
+      [
+       1825,
+       1734
+      ]
+     ]
+    }
+   ]
+  },
+  "AN6822(3)": {
+   "file": "AN6822(3).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN6822",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       2175,
+       1899
+      ],
+      [
+       2207,
+       2163
+      ],
+      [
+       2126,
+       2174
+      ],
+      [
+       2094,
+       1911
+      ]
+     ]
+    }
+   ]
+  },
+  "AN6822": {
+   "file": "AN6822.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN6822",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       2007,
+       1532
+      ],
+      [
+       2177,
+       2206
+      ],
+      [
+       1920,
+       2275
+      ],
+      [
+       1749,
+       1600
+      ]
+     ]
+    }
+   ]
+  },
+  "AN7199": {
+   "file": "AN7199.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN7199",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       648,
+       1580
+      ],
+      [
+       655,
+       1068
+      ],
+      [
+       781,
+       1068
+      ],
+      [
+       771,
+       1580
+      ]
+     ]
+    }
+   ]
+  },
+  "AN7307(1)": {
+   "file": "AN7307(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN7307",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1433,
+       1949
+      ],
+      [
+       1556,
+       1434
+      ],
+      [
+       1786,
+       1489
+      ],
+      [
+       1663,
+       2004
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PH186",
+     "complete": false,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       1004,
+       282
+      ],
+      [
+       1016,
+       0
+      ],
+      [
+       1077,
+       0
+      ],
+      [
+       1069,
+       294
+      ]
+     ]
+    }
+   ]
+  },
+  "AN7307(2)": {
+   "file": "AN7307(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN7307",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1163,
+       2291
+      ],
+      [
+       1307,
+       1219
+      ],
+      [
+       1720,
+       1275
+      ],
+      [
+       1576,
+       2346
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PH1865",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       796,
+       1209
+      ],
+      [
+       813,
+       899
+      ],
+      [
+       921,
+       907
+      ],
+      [
+       904,
+       1217
+      ]
+     ]
+    }
+   ]
+  },
+  "AN7307": {
+   "file": "AN7307.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN7307",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1773,
+       1274
+      ],
+      [
+       1620,
+       2088
+      ],
+      [
+       1295,
+       2024
+      ],
+      [
+       1448,
+       1211
+      ]
+     ]
+    }
+   ]
+  },
+  "AN7307_OR_PH1865": {
+   "file": "AN7307_OR_PH1865.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1865",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       801,
+       1374
+      ],
+      [
+       824,
+       1175
+      ],
+      [
+       904,
+       1187
+      ],
+      [
+       881,
+       1385
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AN7307",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1611,
+       1997
+      ],
+      [
+       1684,
+       1703
+      ],
+      [
+       1791,
+       1730
+      ],
+      [
+       1718,
+       2023
+      ]
+     ]
+    }
+   ]
+  },
+  "AN7322": {
+   "file": "AN7322.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN7322",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       868,
+       1277
+      ],
+      [
+       856,
+       1101
+      ],
+      [
+       911,
+       1095
+      ],
+      [
+       924,
+       1271
+      ]
+     ]
+    }
+   ]
+  },
+  "AN7332(1)": {
+   "file": "AN7332(1).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN7332",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       924,
+       1466
+      ],
+      [
+       931,
+       1108
+      ],
+      [
+       1017,
+       1109
+      ],
+      [
+       1011,
+       1467
+      ]
+     ]
+    }
+   ]
+  },
+  "AN7332_OR_AN5270": {
+   "file": "AN7332_OR_AN5270.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN7332",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "near",
+     "pts": [
+      [
+       3,
+       1215
+      ],
+      [
+       -14,
+       875
+      ],
+      [
+       42,
+       858
+      ],
+      [
+       93,
+       1199
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AN5270",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       942,
+       1492
+      ],
+      [
+       960,
+       1129
+      ],
+      [
+       1016,
+       1129
+      ],
+      [
+       1009,
+       1492
+      ]
+     ]
+    }
+   ]
+  },
+  "AN7335(1)": {
+   "file": "AN7335(1).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN7335",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       984,
+       1459
+      ],
+      [
+       998,
+       1160
+      ],
+      [
+       1082,
+       1165
+      ],
+      [
+       1069,
+       1463
+      ]
+     ]
+    }
+   ]
+  },
+  "AN7335(2)": {
+   "file": "AN7335(2).jpg",
+   "width": 2560,
+   "height": 1920,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN7335",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1080,
+       1375
+      ],
+      [
+       1281,
+       1141
+      ],
+      [
+       1353,
+       1201
+      ],
+      [
+       1153,
+       1435
+      ]
+     ]
+    }
+   ]
+  },
+  "AN7335(3)": {
+   "file": "AN7335(3).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN7335",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1152,
+       1580
+      ],
+      [
+       1118,
+       1338
+      ],
+      [
+       1188,
+       1328
+      ],
+      [
+       1222,
+       1570
+      ]
+     ]
+    }
+   ]
+  },
+  "AN7335": {
+   "file": "AN7335.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN7335",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       1068,
+       1577
+      ],
+      [
+       1119,
+       1408
+      ],
+      [
+       1190,
+       1428
+      ],
+      [
+       1142,
+       1597
+      ]
+     ]
+    }
+   ]
+  },
+  "AP5036(1)": {
+   "file": "AP5036(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5036",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1528,
+       2368
+      ],
+      [
+       1609,
+       2102
+      ],
+      [
+       1725,
+       2136
+      ],
+      [
+       1643,
+       2404
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AM8698",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       140,
+       2211
+      ],
+      [
+       104,
+       2007
+      ],
+      [
+       157,
+       1999
+      ],
+      [
+       193,
+       2200
+      ]
+     ]
+    }
+   ]
+  },
+  "AP5036(2)": {
+   "file": "AP5036(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5036",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1313,
+       2334
+      ],
+      [
+       1505,
+       1985
+      ],
+      [
+       1672,
+       2077
+      ],
+      [
+       1480,
+       2426
+      ]
+     ]
+    }
+   ]
+  },
+  "AP5036(3)": {
+   "file": "AP5036(3).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5036",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1145,
+       2434
+      ],
+      [
+       1430,
+       1473
+      ],
+      [
+       1831,
+       1596
+      ],
+      [
+       1547,
+       2558
+      ]
+     ]
+    }
+   ]
+  },
+  "AP5036": {
+   "file": "AP5036.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5036",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "near",
+     "pts": [
+      [
+       1831,
+       1877
+      ],
+      [
+       1598,
+       2855
+      ],
+      [
+       1117,
+       2740
+      ],
+      [
+       1350,
+       1762
+      ]
+     ]
+    }
+   ]
+  },
+  "AP5114(1)": {
+   "file": "AP5114(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5114",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1085,
+       2813
+      ],
+      [
+       1381,
+       1454
+      ],
+      [
+       2109,
+       1615
+      ],
+      [
+       1814,
+       2973
+      ]
+     ]
+    }
+   ]
+  },
+  "AP5114": {
+   "file": "AP5114.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5114",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1410,
+       2367
+      ],
+      [
+       1568,
+       1982
+      ],
+      [
+       1780,
+       2069
+      ],
+      [
+       1622,
+       2454
+      ]
+     ]
+    }
+   ]
+  },
+  "AP5764(1)": {
+   "file": "AP5764(1).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5764",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       432,
+       652
+      ],
+      [
+       495,
+       533
+      ],
+      [
+       551,
+       563
+      ],
+      [
+       488,
+       682
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PH1288",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       384,
+       264
+      ],
+      [
+       402,
+       189
+      ],
+      [
+       426,
+       194
+      ],
+      [
+       408,
+       269
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "PH1023",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       412,
+       384
+      ],
+      [
+       456,
+       403
+      ],
+      [
+       438,
+       463
+      ],
+      [
+       396,
+       435
+      ]
+     ]
+    }
+   ]
+  },
+  "AP5764(2)": {
+   "file": "AP5764(2).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5764",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       428,
+       687
+      ],
+      [
+       456,
+       599
+      ],
+      [
+       496,
+       612
+      ],
+      [
+       468,
+       700
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PH1288",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       198,
+       526
+      ],
+      [
+       206,
+       471
+      ],
+      [
+       228,
+       474
+      ],
+      [
+       220,
+       529
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "PH1023",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       303,
+       581
+      ],
+      [
+       342,
+       581
+      ],
+      [
+       342,
+       622
+      ],
+      [
+       303,
+       620
+      ]
+     ]
+    }
+   ]
+  },
+  "AP5764(3)": {
+   "file": "AP5764(3).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5764",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       293,
+       657
+      ],
+      [
+       318,
+       540
+      ],
+      [
+       367,
+       552
+      ],
+      [
+       342,
+       669
+      ]
+     ]
+    }
+   ]
+  },
+  "AP5764": {
+   "file": "AP5764.jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5764",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       429,
+       631
+      ],
+      [
+       479,
+       549
+      ],
+      [
+       531,
+       581
+      ],
+      [
+       481,
+       663
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PH1288",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       112,
+       132
+      ],
+      [
+       103,
+       44
+      ],
+      [
+       135,
+       40
+      ],
+      [
+       144,
+       128
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "PH1023",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       256,
+       333
+      ],
+      [
+       315,
+       343
+      ],
+      [
+       317,
+       404
+      ],
+      [
+       262,
+       392
+      ]
+     ]
+    }
+   ]
+  },
+  "AP5886(1)": {
+   "file": "AP5886(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5886",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1040,
+       2101
+      ],
+      [
+       1194,
+       1288
+      ],
+      [
+       1503,
+       1349
+      ],
+      [
+       1347,
+       2163
+      ]
+     ]
+    }
+   ]
+  },
+  "AP5886(2)": {
+   "file": "AP5886(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5886",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1608,
+       2522
+      ],
+      [
+       1639,
+       2280
+      ],
+      [
+       1710,
+       2288
+      ],
+      [
+       1679,
+       2530
+      ]
+     ]
+    }
+   ]
+  },
+  "AP5886(3)": {
+   "file": "AP5886(3).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5886",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       2056,
+       1449
+      ],
+      [
+       2255,
+       2262
+      ],
+      [
+       1948,
+       2337
+      ],
+      [
+       1749,
+       1524
+      ]
+     ]
+    }
+   ]
+  },
+  "AP5886": {
+   "file": "AP5886.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5886",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1360,
+       2094
+      ],
+      [
+       1473,
+       1689
+      ],
+      [
+       1656,
+       1741
+      ],
+      [
+       1542,
+       2146
+      ]
+     ]
+    }
+   ]
+  },
+  "AP6068(1)": {
+   "file": "AP6068(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP6068",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1891,
+       1112
+      ],
+      [
+       2024,
+       2639
+      ],
+      [
+       1490,
+       2686
+      ],
+      [
+       1357,
+       1159
+      ]
+     ]
+    }
+   ]
+  },
+  "AP6068(2)": {
+   "file": "AP6068(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP6068",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1946,
+       1618
+      ],
+      [
+       1889,
+       2227
+      ],
+      [
+       1670,
+       2205
+      ],
+      [
+       1727,
+       1596
+      ]
+     ]
+    }
+   ]
+  },
+  "AP6068": {
+   "file": "AP6068.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP6068",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1403,
+       2369
+      ],
+      [
+       1736,
+       1027
+      ],
+      [
+       2166,
+       1135
+      ],
+      [
+       1832,
+       2478
+      ]
+     ]
+    }
+   ]
+  },
+  "AP7114(1)": {
+   "file": "AP7114(1).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP7114",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       983,
+       1644
+      ],
+      [
+       722,
+       1037
+      ],
+      [
+       814,
+       996
+      ],
+      [
+       1075,
+       1603
+      ]
+     ]
+    }
+   ]
+  },
+  "AP7114": {
+   "file": "AP7114.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP7114",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       640,
+       1733
+      ],
+      [
+       658,
+       1206
+      ],
+      [
+       740,
+       1206
+      ],
+      [
+       727,
+       1733
+      ]
+     ]
+    }
+   ]
+  },
+  "AP7147(1)": {
+   "file": "AP7147(1).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP7147",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       469,
+       559
+      ],
+      [
+       487,
+       487
+      ],
+      [
+       511,
+       494
+      ],
+      [
+       493,
+       566
+      ]
+     ]
+    }
+   ]
+  },
+  "AP7147(2)": {
+   "file": "AP7147(2).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP7147",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       456,
+       742
+      ],
+      [
+       501,
+       626
+      ],
+      [
+       551,
+       644
+      ],
+      [
+       505,
+       760
+      ]
+     ]
+    }
+   ]
+  },
+  "AP7147(3)": {
+   "file": "AP7147(3).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP7147",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       388,
+       731
+      ],
+      [
+       405,
+       590
+      ],
+      [
+       447,
+       596
+      ],
+      [
+       430,
+       737
+      ]
+     ]
+    }
+   ]
+  },
+  "AP7147(4)": {
+   "file": "AP7147(4).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP7147",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       427,
+       696
+      ],
+      [
+       488,
+       569
+      ],
+      [
+       551,
+       599
+      ],
+      [
+       490,
+       726
+      ]
+     ]
+    }
+   ]
+  },
+  "AP7147": {
+   "file": "AP7147.jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP7147",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       439,
+       648
+      ],
+      [
+       468,
+       544
+      ],
+      [
+       503,
+       553
+      ],
+      [
+       474,
+       657
+      ]
+     ]
+    }
+   ]
+  },
+  "AS5573(1)": {
+   "file": "AS5573(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AS5573",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       1567,
+       1489
+      ],
+      [
+       1628,
+       2681
+      ],
+      [
+       1885,
+       2681
+      ],
+      [
+       1832,
+       1489
+      ]
+     ]
+    }
+   ]
+  },
+  "AS5573(2)": {
+   "file": "AS5573(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AS5573",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1154,
+       2469
+      ],
+      [
+       1252,
+       2122
+      ],
+      [
+       1406,
+       2167
+      ],
+      [
+       1310,
+       2514
+      ]
+     ]
+    }
+   ]
+  },
+  "AS5573(3)": {
+   "file": "AS5573(3).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AS5573",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1186,
+       2347
+      ],
+      [
+       1409,
+       1194
+      ],
+      [
+       1860,
+       1283
+      ],
+      [
+       1637,
+       2436
+      ]
+     ]
+    }
+   ]
+  },
+  "AS5573": {
+   "file": "AS5573.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AS5573",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1756,
+       1694
+      ],
+      [
+       1732,
+       2256
+      ],
+      [
+       1503,
+       2246
+      ],
+      [
+       1527,
+       1684
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "H2127",
+     "complete": false,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       628,
+       0
+      ],
+      [
+       730,
+       330
+      ],
+      [
+       649,
+       363
+      ],
+      [
+       555,
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  "AS5616_OR_AP6653": {
+   "file": "AS5616_OR_AP6653.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP6653",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1211,
+       774
+      ],
+      [
+       1319,
+       1091
+      ],
+      [
+       1219,
+       1127
+      ],
+      [
+       1111,
+       809
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AS5616",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1489,
+       667
+      ],
+      [
+       1579,
+       950
+      ],
+      [
+       1499,
+       976
+      ],
+      [
+       1410,
+       693
+      ]
+     ]
+    }
+   ]
+  },
+  "PA6520(1)": {
+   "file": "PA6520(1).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PA6520",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       395,
+       629
+      ],
+      [
+       446,
+       755
+      ],
+      [
+       398,
+       776
+      ],
+      [
+       347,
+       650
+      ]
+     ]
+    }
+   ]
+  },
+  "PB1575(1)": {
+   "file": "PB1575(1).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PB1575",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       343,
+       699
+      ],
+      [
+       393,
+       846
+      ],
+      [
+       325,
+       869
+      ],
+      [
+       275,
+       722
+      ]
+     ]
+    }
+   ]
+  },
+  "PB5791_OR_AJ8415": {
+   "file": "PB5791_OR_AJ8415.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AJ8415",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1287,
+       1545
+      ],
+      [
+       1235,
+       1166
+      ],
+      [
+       1322,
+       1154
+      ],
+      [
+       1373,
+       1533
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PB5791",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "near",
+     "pts": [
+      [
+       424,
+       1568
+      ],
+      [
+       266,
+       958
+      ],
+      [
+       407,
+       921
+      ],
+      [
+       565,
+       1532
+      ]
+     ]
+    }
+   ]
+  },
+  "PC0476": {
+   "file": "PC0476.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PC0476",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "near",
+     "pts": [
+      [
+       1714,
+       1341
+      ],
+      [
+       2190,
+       2869
+      ],
+      [
+       1269,
+       3165
+      ],
+      [
+       792,
+       1636
+      ]
+     ]
+    }
+   ]
+  },
+  "PC7461": {
+   "file": "PC7461.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PC7461",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "near",
+     "pts": [
+      [
+       836,
+       1452
+      ],
+      [
+       854,
+       1012
+      ],
+      [
+       949,
+       1017
+      ],
+      [
+       931,
+       1456
+      ]
+     ]
+    }
+   ]
+  },
+  "PC7461_OR_PH1046_OR_PB5791_OR_AJ8415": {
+   "file": "PC7461_OR_PH1046_OR_PB5791_OR_AJ8415.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PC7461",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       301,
+       1384
+      ],
+      [
+       281,
+       1040
+      ],
+      [
+       394,
+       1034
+      ],
+      [
+       414,
+       1378
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PH1046",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       626,
+       1526
+      ],
+      [
+       629,
+       1178
+      ],
+      [
+       730,
+       1178
+      ],
+      [
+       727,
+       1526
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AJ8415",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1751,
+       1968
+      ],
+      [
+       1808,
+       1648
+      ],
+      [
+       1872,
+       1659
+      ],
+      [
+       1815,
+       1979
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PB5791",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1077,
+       1744
+      ],
+      [
+       1098,
+       1339
+      ],
+      [
+       1203,
+       1344
+      ],
+      [
+       1182,
+       1749
+      ]
+     ]
+    }
+   ]
+  },
+  "PD7716(1)": {
+   "file": "PD7716(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PD7716",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1841,
+       1347
+      ],
+      [
+       2002,
+       2151
+      ],
+      [
+       1707,
+       2211
+      ],
+      [
+       1546,
+       1407
+      ]
+     ]
+    }
+   ]
+  },
+  "PD7716(2)": {
+   "file": "PD7716(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PD7716",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1607,
+       1745
+      ],
+      [
+       1668,
+       1446
+      ],
+      [
+       1805,
+       1476
+      ],
+      [
+       1744,
+       1774
+      ]
+     ]
+    }
+   ]
+  },
+  "PD7716(3)": {
+   "file": "PD7716(3).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PD7716",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1552,
+       2260
+      ],
+      [
+       1698,
+       2646
+      ],
+      [
+       1516,
+       2717
+      ],
+      [
+       1370,
+       2331
+      ]
+     ]
+    }
+   ]
+  },
+  "PD7716": {
+   "file": "PD7716.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PD7716",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1861,
+       2203
+      ],
+      [
+       2098,
+       1221
+      ],
+      [
+       2486,
+       1318
+      ],
+      [
+       2250,
+       2300
+      ]
+     ]
+    }
+   ]
+  },
+  "PE0271": {
+   "file": "PE0271.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE0271",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1241,
+       1627
+      ],
+      [
+       1260,
+       1398
+      ],
+      [
+       1349,
+       1404
+      ],
+      [
+       1330,
+       1633
+      ]
+     ]
+    }
+   ]
+  },
+  "PE2207": {
+   "file": "PE2207.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE2207",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       820,
+       1268
+      ],
+      [
+       876,
+       1499
+      ],
+      [
+       796,
+       1519
+      ],
+      [
+       742,
+       1289
+      ]
+     ]
+    }
+   ]
+  },
+  "PE2220(1)": {
+   "file": "PE2220(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE2220",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1481,
+       1661
+      ],
+      [
+       1609,
+       1997
+      ],
+      [
+       1471,
+       2049
+      ],
+      [
+       1345,
+       1713
+      ]
+     ]
+    }
+   ]
+  },
+  "PE2220": {
+   "file": "PE2220.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE2220",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1240,
+       2650
+      ],
+      [
+       1485,
+       1622
+      ],
+      [
+       1901,
+       1724
+      ],
+      [
+       1656,
+       2752
+      ]
+     ]
+    }
+   ]
+  },
+  "PE2220_OR_AP5114": {
+   "file": "PE2220_OR_AP5114.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AP5114",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       2132,
+       2054
+      ],
+      [
+       2221,
+       1777
+      ],
+      [
+       2327,
+       1812
+      ],
+      [
+       2239,
+       2089
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PE2220",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1577,
+       2483
+      ],
+      [
+       1641,
+       2171
+      ],
+      [
+       1737,
+       2191
+      ],
+      [
+       1673,
+       2503
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "PE2220",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       522,
+       2689
+      ],
+      [
+       596,
+       2778
+      ],
+      [
+       539,
+       2974
+      ],
+      [
+       465,
+       2880
+      ]
+     ]
+    }
+   ]
+  },
+  "PE5436(1)": {
+   "file": "PE5436(1).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE5436",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       726,
+       1021
+      ],
+      [
+       1101,
+       1816
+      ],
+      [
+       748,
+       1986
+      ],
+      [
+       374,
+       1191
+      ]
+     ]
+    }
+   ]
+  },
+  "PE5436(2)": {
+   "file": "PE5436(2).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE5436",
+     "complete": true,
+     "uncertain": true,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       760,
+       1316
+      ],
+      [
+       835,
+       1485
+      ],
+      [
+       891,
+       1457
+      ],
+      [
+       809,
+       1285
+      ]
+     ]
+    }
+   ]
+  },
+  "PE5436": {
+   "file": "PE5436.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE5436",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       785,
+       1187
+      ],
+      [
+       900,
+       1460
+      ],
+      [
+       791,
+       1506
+      ],
+      [
+       677,
+       1233
+      ]
+     ]
+    }
+   ]
+  },
+  "PE7419_OR_AP5590": {
+   "file": "PE7419_OR_AP5590.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE7419",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       375,
+       1075
+      ],
+      [
+       406,
+       842
+      ],
+      [
+       500,
+       856
+      ],
+      [
+       469,
+       1088
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AP5590",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1007,
+       1600
+      ],
+      [
+       1107,
+       1288
+      ],
+      [
+       1231,
+       1329
+      ],
+      [
+       1131,
+       1641
+      ]
+     ]
+    }
+   ]
+  },
+  "PE7602": {
+   "file": "PE7602.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE7602",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       808,
+       2631
+      ],
+      [
+       1119,
+       1211
+      ],
+      [
+       1611,
+       1321
+      ],
+      [
+       1300,
+       2742
+      ]
+     ]
+    }
+   ]
+  },
+  "PE8181": {
+   "file": "PE8181.jpg",
+   "width": 2588,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE8181",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       119,
+       2707
+      ],
+      [
+       616,
+       829
+      ],
+      [
+       1264,
+       1005
+      ],
+      [
+       767,
+       2883
+      ]
+     ]
+    }
+   ]
+  },
+  "PE8744": {
+   "file": "PE8744.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE8744",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1655,
+       1429
+      ],
+      [
+       2039,
+       2793
+      ],
+      [
+       1409,
+       2974
+      ],
+      [
+       1025,
+       1610
+      ]
+     ]
+    }
+   ]
+  },
+  "PE8761(1)": {
+   "file": "PE8761(1).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE876",
+     "complete": false,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "near",
+     "pts": [
+      [
+       608,
+       786
+      ],
+      [
+       631,
+       666
+      ],
+      [
+       667,
+       672
+      ],
+      [
+       644,
+       793
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "PE8761",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       172,
+       943
+      ],
+      [
+       228,
+       982
+      ],
+      [
+       204,
+       1087
+      ],
+      [
+       148,
+       1032
+      ]
+     ]
+    }
+   ]
+  },
+  "PE9147(1)": {
+   "file": "PE9147(1).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE9147",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1070,
+       1747
+      ],
+      [
+       1196,
+       1600
+      ],
+      [
+       1309,
+       1701
+      ],
+      [
+       1183,
+       1846
+      ]
+     ]
+    }
+   ]
+  },
+  "PE9147": {
+   "file": "PE9147.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PE9147",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       1144,
+       1884
+      ],
+      [
+       1198,
+       1674
+      ],
+      [
+       1249,
+       1705
+      ],
+      [
+       1198,
+       1912
+      ]
+     ]
+    }
+   ]
+  },
+  "PE9147_OR_AN7335(1)": {
+   "file": "PE9147_OR_AN7335(1).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN7335",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       748,
+       845
+      ],
+      [
+       764,
+       659
+      ],
+      [
+       833,
+       665
+      ],
+      [
+       816,
+       851
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "PE9147",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       251,
+       1987
+      ],
+      [
+       430,
+       2033
+      ],
+      [
+       440,
+       2212
+      ],
+      [
+       271,
+       2153
+      ]
+     ]
+    }
+   ]
+  },
+  "PE9147_OR_AN7335": {
+   "file": "PE9147_OR_AN7335.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AN7335",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1640,
+       1142
+      ],
+      [
+       1743,
+       928
+      ],
+      [
+       1826,
+       971
+      ],
+      [
+       1724,
+       1184
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PE9147",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1048,
+       1808
+      ],
+      [
+       1110,
+       1518
+      ],
+      [
+       1218,
+       1541
+      ],
+      [
+       1157,
+       1831
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1023": {
+   "file": "PH1023.jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1023",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       461,
+       637
+      ],
+      [
+       483,
+       706
+      ],
+      [
+       455,
+       715
+      ],
+      [
+       433,
+       646
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PH1288",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       637,
+       725
+      ],
+      [
+       651,
+       818
+      ],
+      [
+       626,
+       822
+      ],
+      [
+       612,
+       729
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1023_OR_AP5764(1)": {
+   "file": "PH1023_OR_AP5764(1).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1023",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       403,
+       642
+      ],
+      [
+       439,
+       718
+      ],
+      [
+       402,
+       736
+      ],
+      [
+       366,
+       660
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PH1288",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       695,
+       828
+      ],
+      [
+       713,
+       955
+      ],
+      [
+       673,
+       960
+      ],
+      [
+       655,
+       833
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AP5764",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       604,
+       445
+      ],
+      [
+       627,
+       512
+      ],
+      [
+       608,
+       518
+      ],
+      [
+       586,
+       451
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1023_OR_AP5764": {
+   "file": "PH1023_OR_AP5764.jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1023",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       426,
+       662
+      ],
+      [
+       475,
+       716
+      ],
+      [
+       434,
+       754
+      ],
+      [
+       385,
+       701
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AP5764",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       833,
+       230
+      ],
+      [
+       811,
+       335
+      ],
+      [
+       781,
+       328
+      ],
+      [
+       803,
+       223
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1046": {
+   "file": "PH1046.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1046",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "near",
+     "pts": [
+      [
+       609,
+       1314
+      ],
+      [
+       599,
+       863
+      ],
+      [
+       699,
+       862
+      ],
+      [
+       709,
+       1312
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1046_OR_PB5791_OR_AJ8415_OR_AP7114": {
+   "file": "PH1046_OR_PB5791_OR_AJ8415_OR_AP7114.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "AJ8415",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       802,
+       1561
+      ],
+      [
+       706,
+       1326
+      ],
+      [
+       782,
+       1295
+      ],
+      [
+       878,
+       1529
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PH1046",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       95,
+       1645
+      ],
+      [
+       -12,
+       1390
+      ],
+      [
+       46,
+       1325
+      ],
+      [
+       195,
+       1581
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PB5791",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       411,
+       1627
+      ],
+      [
+       253,
+       1339
+      ],
+      [
+       338,
+       1292
+      ],
+      [
+       497,
+       1580
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AP7114",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       1316,
+       1551
+      ],
+      [
+       1185,
+       1188
+      ],
+      [
+       1254,
+       1162
+      ],
+      [
+       1388,
+       1528
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1288(1)": {
+   "file": "PH1288(1).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1288",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       423,
+       713
+      ],
+      [
+       451,
+       627
+      ],
+      [
+       491,
+       640
+      ],
+      [
+       463,
+       726
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "PH1023",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "pair",
+     "pts": [
+      [
+       849,
+       905
+      ],
+      [
+       957,
+       911
+      ],
+      [
+       959,
+       1024
+      ],
+      [
+       844,
+       1021
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1288(2)": {
+   "file": "PH1288(2).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1288",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       435,
+       720
+      ],
+      [
+       480,
+       658
+      ],
+      [
+       522,
+       689
+      ],
+      [
+       477,
+       751
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1288(3)": {
+   "file": "PH1288(3).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1288",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       455,
+       728
+      ],
+      [
+       494,
+       630
+      ],
+      [
+       542,
+       650
+      ],
+      [
+       503,
+       748
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1288": {
+   "file": "PH1288.jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1288",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       71,
+       882
+      ],
+      [
+       81,
+       768
+      ],
+      [
+       135,
+       773
+      ],
+      [
+       125,
+       887
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "PH1023",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       701,
+       1032
+      ],
+      [
+       772,
+       988
+      ],
+      [
+       781,
+       1071
+      ],
+      [
+       713,
+       1101
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1288_OR_PH1023": {
+   "file": "PH1288_OR_PH1023.jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1023",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       749,
+       474
+      ],
+      [
+       754,
+       586
+      ],
+      [
+       718,
+       587
+      ],
+      [
+       713,
+       475
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PH1288",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       387,
+       776
+      ],
+      [
+       420,
+       655
+      ],
+      [
+       464,
+       667
+      ],
+      [
+       431,
+       788
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1405(1)": {
+   "file": "PH1405(1).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1405",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       911,
+       1386
+      ],
+      [
+       778,
+       1046
+      ],
+      [
+       871,
+       1007
+      ],
+      [
+       1004,
+       1347
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1405": {
+   "file": "PH1405.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1405",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       731,
+       1438
+      ],
+      [
+       758,
+       1126
+      ],
+      [
+       828,
+       1133
+      ],
+      [
+       801,
+       1445
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1865(1)": {
+   "file": "PH1865(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1865",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "near",
+     "pts": [
+      [
+       1413,
+       1923
+      ],
+      [
+       1418,
+       2439
+      ],
+      [
+       1237,
+       2442
+      ],
+      [
+       1232,
+       1925
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1865(2)": {
+   "file": "PH1865(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1865",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1202,
+       2468
+      ],
+      [
+       1323,
+       1877
+      ],
+      [
+       1577,
+       1930
+      ],
+      [
+       1456,
+       2522
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1865": {
+   "file": "PH1865.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1865",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1215,
+       2628
+      ],
+      [
+       1480,
+       1446
+      ],
+      [
+       1951,
+       1553
+      ],
+      [
+       1686,
+       2735
+      ]
+     ]
+    }
+   ]
+  },
+  "PH1981": {
+   "file": "PH1981.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH1981",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       1165,
+       1812
+      ],
+      [
+       1167,
+       1441
+      ],
+      [
+       1224,
+       1441
+      ],
+      [
+       1213,
+       1815
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2127(1)": {
+   "file": "PH2127(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2127",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1617,
+       1786
+      ],
+      [
+       1704,
+       2179
+      ],
+      [
+       1551,
+       2213
+      ],
+      [
+       1464,
+       1821
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2127(2)": {
+   "file": "PH2127(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2127",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1551,
+       1455
+      ],
+      [
+       1649,
+       2245
+      ],
+      [
+       1361,
+       2282
+      ],
+      [
+       1262,
+       1491
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2127(3)": {
+   "file": "PH2127(3).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2127",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       766,
+       2133
+      ],
+      [
+       904,
+       1314
+      ],
+      [
+       1232,
+       1369
+      ],
+      [
+       1094,
+       2188
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2127": {
+   "file": "PH2127.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2127",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1353,
+       1682
+      ],
+      [
+       1424,
+       1378
+      ],
+      [
+       1534,
+       1405
+      ],
+      [
+       1463,
+       1709
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "AN6822",
+     "complete": false,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       958,
+       684
+      ],
+      [
+       976,
+       496
+      ],
+      [
+       1038,
+       501
+      ],
+      [
+       1020,
+       689
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2146": {
+   "file": "PH2146.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2146",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       599,
+       1641
+      ],
+      [
+       614,
+       1188
+      ],
+      [
+       660,
+       1183
+      ],
+      [
+       663,
+       1641
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2167(1)": {
+   "file": "PH2167(1).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2167",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1478,
+       1921
+      ],
+      [
+       1407,
+       2372
+      ],
+      [
+       1253,
+       2348
+      ],
+      [
+       1324,
+       1897
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PH0284",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       1952,
+       57
+      ],
+      [
+       1924,
+       212
+      ],
+      [
+       1869,
+       200
+      ],
+      [
+       1897,
+       45
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2167(2)": {
+   "file": "PH2167(2).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2167",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1268,
+       2053
+      ],
+      [
+       1423,
+       1753
+      ],
+      [
+       1587,
+       1837
+      ],
+      [
+       1429,
+       2140
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2167(3)": {
+   "file": "PH2167(3).jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2167",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1667,
+       2373
+      ],
+      [
+       1725,
+       2153
+      ],
+      [
+       1795,
+       2172
+      ],
+      [
+       1737,
+       2391
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2167": {
+   "file": "PH2167.jpg",
+   "width": 3060,
+   "height": 4080,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2167",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1358,
+       2213
+      ],
+      [
+       1576,
+       1437
+      ],
+      [
+       1863,
+       1519
+      ],
+      [
+       1645,
+       2295
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2376(1)": {
+   "file": "PH2376(1).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2376",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       862,
+       1585
+      ],
+      [
+       956,
+       1411
+      ],
+      [
+       1043,
+       1458
+      ],
+      [
+       950,
+       1632
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2376(2)": {
+   "file": "PH2376(2).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2376",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1059,
+       1287
+      ],
+      [
+       1059,
+       1051
+      ],
+      [
+       1113,
+       1051
+      ],
+      [
+       1113,
+       1287
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "PH2376",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       425,
+       1789
+      ],
+      [
+       571,
+       1848
+      ],
+      [
+       566,
+       2022
+      ],
+      [
+       433,
+       1981
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2376(3)": {
+   "file": "PH2376(3).jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2376",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "near",
+     "pts": [
+      [
+       1061,
+       1358
+      ],
+      [
+       1144,
+       1121
+      ],
+      [
+       1211,
+       1144
+      ],
+      [
+       1128,
+       1381
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "PH2376",
+     "complete": true,
+     "uncertain": true,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       177,
+       1981
+      ],
+      [
+       174,
+       2150
+      ],
+      [
+       74,
+       2066
+      ],
+      [
+       74,
+       1917
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2376": {
+   "file": "PH2376.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2376",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1146,
+       1384
+      ],
+      [
+       1185,
+       1165
+      ],
+      [
+       1254,
+       1176
+      ],
+      [
+       1215,
+       1395
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "PH2376",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       422,
+       1559
+      ],
+      [
+       466,
+       1628
+      ],
+      [
+       440,
+       1766
+      ],
+      [
+       399,
+       1700
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2539": {
+   "file": "PH2539.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2539",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1029,
+       1554
+      ],
+      [
+       1080,
+       1340
+      ],
+      [
+       1169,
+       1361
+      ],
+      [
+       1119,
+       1574
+      ]
+     ]
+    }
+   ]
+  },
+  "PH2871": {
+   "file": "PH2871.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH2871",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       994,
+       1497
+      ],
+      [
+       1045,
+       1195
+      ],
+      [
+       1139,
+       1211
+      ],
+      [
+       1088,
+       1513
+      ]
+     ]
+    }
+   ]
+  },
+  "PH3197": {
+   "file": "PH3197.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH3197",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       1054,
+       1811
+      ],
+      [
+       1106,
+       1493
+      ],
+      [
+       1255,
+       1518
+      ],
+      [
+       1204,
+       1837
+      ]
+     ]
+    }
+   ]
+  },
+  "PH3197_OR_PE7419": {
+   "file": "PH3197_OR_PE7419.jpg",
+   "width": 1920,
+   "height": 2560,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PH3197",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       251,
+       1323
+      ],
+      [
+       251,
+       1102
+      ],
+      [
+       331,
+       1102
+      ],
+      [
+       331,
+       1323
+      ]
+     ]
+    },
+    {
+     "cls": "front",
+     "text": "PE7419",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "exact",
+     "pts": [
+      [
+       990,
+       1524
+      ],
+      [
+       1061,
+       1259
+      ],
+      [
+       1162,
+       1288
+      ],
+      [
+       1092,
+       1553
+      ]
+     ]
+    }
+   ]
+  },
+  "PO5881(1)": {
+   "file": "PO5881(1).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PC5381",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "near",
+     "pts": [
+      [
+       446,
+       678
+      ],
+      [
+       497,
+       589
+      ],
+      [
+       554,
+       621
+      ],
+      [
+       503,
+       710
+      ]
+     ]
+    }
+   ]
+  },
+  "PO5881(2)": {
+   "file": "PO5881(2).jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PC5381",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "other",
+     "pts": [
+      [
+       386,
+       784
+      ],
+      [
+       429,
+       663
+      ],
+      [
+       486,
+       684
+      ],
+      [
+       444,
+       805
+      ]
+     ]
+    },
+    {
+     "cls": "rear",
+     "text": "AN5011",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       435,
+       1138
+      ],
+      [
+       454,
+       1101
+      ],
+      [
+       471,
+       1129
+      ],
+      [
+       447,
+       1162
+      ]
+     ]
+    }
+   ]
+  },
+  "PO5881": {
+   "file": "PO5881.jpg",
+   "width": 960,
+   "height": 1280,
+   "plates": [
+    {
+     "cls": "front",
+     "text": "PC5381",
+     "complete": true,
+     "uncertain": false,
+     "operator": "whoosh",
+     "src": "manual",
+     "pts": [
+      [
+       369,
+       813
+      ],
+      [
+       401,
+       686
+      ],
+      [
+       425,
+       692
+      ],
+      [
+       393,
+       819
+      ]
+     ]
+    }
+   ]
+  }
+ }
+}

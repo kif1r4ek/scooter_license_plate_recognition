@@ -1,0 +1,141 @@
+{
+ "val": {
+  "plate": 0.9959677419354839,
+  "char": 0.9993279569892473,
+  "wrong": [
+   "PC5381 7/8 PC5881"
+  ]
+ },
+ "test": {
+  "plate": 0.9625,
+  "char": 0.99375,
+  "wrong": [
+   "PE7419(r) 6/8 PE7449",
+   "AP5590 6/8 AP5520",
+   "PE7419 4/8 PE7479",
+   "PE8181 7/8 PE8188"
+  ]
+ },
+ "log": [
+  {
+   "step": 500,
+   "loss": 6.385,
+   "val_plate": 0.3952,
+   "val_char": 0.7574
+  },
+  {
+   "step": 1000,
+   "loss": 3.162,
+   "val_plate": 0.9355,
+   "val_char": 0.9866
+  },
+  {
+   "step": 1500,
+   "loss": 2.468,
+   "val_plate": 0.9839,
+   "val_char": 0.9973
+  },
+  {
+   "step": 2000,
+   "loss": 2.257,
+   "val_plate": 0.996,
+   "val_char": 0.9993
+  },
+  {
+   "step": 2500,
+   "loss": 2.289,
+   "val_plate": 0.996,
+   "val_char": 0.9993
+  },
+  {
+   "step": 3000,
+   "loss": 2.136,
+   "val_plate": 0.996,
+   "val_char": 0.9993
+  },
+  {
+   "step": 3500,
+   "loss": 2.37,
+   "val_plate": 0.9879,
+   "val_char": 0.998
+  },
+  {
+   "step": 4000,
+   "loss": 2.388,
+   "val_plate": 0.9919,
+   "val_char": 0.9987
+  },
+  {
+   "step": 4500,
+   "loss": 2.133,
+   "val_plate": 0.9919,
+   "val_char": 0.9987
+  },
+  {
+   "step": 5000,
+   "loss": 2.161,
+   "val_plate": 1.0,
+   "val_char": 1.0
+  },
+  {
+   "step": 5500,
+   "loss": 2.005,
+   "val_plate": 1.0,
+   "val_char": 1.0
+  },
+  {
+   "step": 6000,
+   "loss": 2.38,
+   "val_plate": 1.0,
+   "val_char": 1.0
+  },
+  {
+   "step": 6500,
+   "loss": 2.03,
+   "val_plate": 0.996,
+   "val_char": 0.9987
+  },
+  {
+   "step": 7000,
+   "loss": 2.411,
+   "val_plate": 1.0,
+   "val_char": 1.0
+  },
+  {
+   "step": 7500,
+   "loss": 1.932,
+   "val_plate": 1.0,
+   "val_char": 1.0
+  },
+  {
+   "step": 8000,
+   "loss": 2.148,
+   "val_plate": 1.0,
+   "val_char": 1.0
+  },
+  {
+   "step": 8500,
+   "loss": 1.909,
+   "val_plate": 1.0,
+   "val_char": 1.0
+  },
+  {
+   "step": 9000,
+   "loss": 1.894,
+   "val_plate": 1.0,
+   "val_char": 1.0
+  },
+  {
+   "step": 9500,
+   "loss": 1.951,
+   "val_plate": 0.996,
+   "val_char": 0.9993
+  },
+  {
+   "step": 10000,
+   "loss": 1.996,
+   "val_plate": 0.996,
+   "val_char": 0.9993
+  }
+ ]
+}

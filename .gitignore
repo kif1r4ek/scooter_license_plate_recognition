@@ -1,0 +1,15 @@
+# generated from data/raw + data/labels by training/export_*.py
+data/yolo/
+data/ocr/
+# training outputs
+runs/
+models/*.pt
+yolo11n-obb.pt
+# builds
+build/
+out/
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.idea/

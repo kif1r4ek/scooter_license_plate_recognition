@@ -1,0 +1,12 @@
+# Python side: training, evaluation, Modal client. torch/torchvision are installed
+# separately because the CPU and CUDA builds come from different indexes:
+#   CPU:  pip install torch==2.5.1 torchvision==0.20.1 --index-url https://download.pytorch.org/whl/cpu
+#   CUDA: pip install torch==2.5.1 torchvision==0.20.1
+ultralytics==8.3.40
+numpy==1.26.4
+opencv-python==4.11.0.86
+pillow==11.3.0
+onnx==1.17.0
+onnxslim==0.1.48
+onnxruntime==1.20.1
+modal==1.3.5

@@ -1,0 +1,315 @@
+[
+ {
+  "file": "AN4551.jpg",
+  "plates": [
+   {
+    "text": "AN4551",
+    "confidence": 0.9396,
+    "rear": false,
+    "detection": 0.902
+   },
+   {
+    "text": "PE7419",
+    "confidence": 0.7987,
+    "rear": true,
+    "detection": 0.9018
+   },
+   {
+    "text": "PE2191",
+    "confidence": 0.1404,
+    "rear": true,
+    "detection": 0.5246
+   },
+   {
+    "text": "AP5590",
+    "confidence": 0.9236,
+    "rear": false,
+    "detection": 0.3503
+   }
+  ]
+ },
+ {
+  "file": "AN6656.jpg",
+  "plates": [
+   {
+    "text": "AN6656",
+    "confidence": 0.9428,
+    "rear": false,
+    "detection": 0.8631
+   }
+  ]
+ },
+ {
+  "file": "AN6656(1).jpg",
+  "plates": [
+   {
+    "text": "AN6656",
+    "confidence": 0.9396,
+    "rear": false,
+    "detection": 0.6481
+   }
+  ]
+ },
+ {
+  "file": "AN6656(2).jpg",
+  "plates": [
+   {
+    "text": "AN6656",
+    "confidence": 0.942,
+    "rear": false,
+    "detection": 0.9218
+   }
+  ]
+ },
+ {
+  "file": "AN6656(3).jpg",
+  "plates": [
+   {
+    "text": "AN6656",
+    "confidence": 0.9409,
+    "rear": false,
+    "detection": 0.9052
+   }
+  ]
+ },
+ {
+  "file": "AN6681.jpg",
+  "plates": [
+   {
+    "text": "AN6681",
+    "confidence": 0.9433,
+    "rear": false,
+    "detection": 0.8337
+   }
+  ]
+ },
+ {
+  "file": "AN7307.jpg",
+  "plates": [
+   {
+    "text": "AN7307",
+    "confidence": 0.8212,
+    "rear": false,
+    "detection": 0.7597
+   }
+  ]
+ },
+ {
+  "file": "AN7307(1).jpg",
+  "plates": [
+   {
+    "text": "AN7307",
+    "confidence": 0.4457,
+    "rear": false,
+    "detection": 0.812
+   },
+   {
+    "text": "PH1886",
+    "confidence": 0.8647,
+    "rear": false,
+    "detection": 0.7932
+   }
+  ]
+ },
+ {
+  "file": "AN7307(2).jpg",
+  "plates": [
+   {
+    "text": "PH1865",
+    "confidence": 0.9556,
+    "rear": false,
+    "detection": 0.8864
+   },
+   {
+    "text": "AN7307",
+    "confidence": 0.9472,
+    "rear": false,
+    "detection": 0.6879
+   },
+   {
+    "text": "ZP7706",
+    "confidence": 0.0591,
+    "rear": false,
+    "detection": 0.2664
+   }
+  ]
+ },
+ {
+  "file": "AN7307_OR_PH1865.jpg",
+  "plates": [
+   {
+    "text": "AN7307",
+    "confidence": 0.9412,
+    "rear": false,
+    "detection": 0.9196
+   },
+   {
+    "text": "PH1865",
+    "confidence": 0.9354,
+    "rear": false,
+    "detection": 0.8878
+   }
+  ]
+ },
+ {
+  "file": "AP5886.jpg",
+  "plates": [
+   {
+    "text": "AP5886",
+    "confidence": 0.9487,
+    "rear": false,
+    "detection": 0.8925
+   }
+  ]
+ },
+ {
+  "file": "AP5886(1).jpg",
+  "plates": [
+   {
+    "text": "AP5886",
+    "confidence": 0.9343,
+    "rear": false,
+    "detection": 0.7854
+   }
+  ]
+ },
+ {
+  "file": "AP5886(2).jpg",
+  "plates": [
+   {
+    "text": "AP5886",
+    "confidence": 0.9239,
+    "rear": false,
+    "detection": 0.8498
+   }
+  ]
+ },
+ {
+  "file": "AP5886(3).jpg",
+  "plates": [
+   {
+    "text": "AP5886",
+    "confidence": 0.954,
+    "rear": false,
+    "detection": 0.2991
+   }
+  ]
+ },
+ {
+  "file": "PB1575(1).jpg",
+  "plates": [
+   {
+    "text": "PB1575",
+    "confidence": 0.9202,
+    "rear": false,
+    "detection": 0.8912
+   }
+  ]
+ },
+ {
+  "file": "PE2207.jpg",
+  "plates": [
+   {
+    "text": "PE2207",
+    "confidence": 0.9102,
+    "rear": false,
+    "detection": 0.888
+   }
+  ]
+ },
+ {
+  "file": "PE7419_OR_AP5590.jpg",
+  "plates": [
+   {
+    "text": "PE7419",
+    "confidence": 0.9459,
+    "rear": false,
+    "detection": 0.9074
+   },
+   {
+    "text": "AP5590",
+    "confidence": 0.8937,
+    "rear": false,
+    "detection": 0.8082
+   }
+  ]
+ },
+ {
+  "file": "PE8181.jpg",
+  "plates": [
+   {
+    "text": "PE8188",
+    "confidence": 0.7724,
+    "rear": false,
+    "detection": 0.8305
+   }
+  ]
+ },
+ {
+  "file": "PH1865.jpg",
+  "plates": [
+   {
+    "text": "PH1865",
+    "confidence": 0.95,
+    "rear": false,
+    "detection": 0.7666
+   }
+  ]
+ },
+ {
+  "file": "PH1865(1).jpg",
+  "plates": [
+   {
+    "text": "PH1865",
+    "confidence": 0.9334,
+    "rear": false,
+    "detection": 0.8433
+   },
+   {
+    "text": "AA7275",
+    "confidence": 0.0395,
+    "rear": false,
+    "detection": 0.2957
+   }
+  ]
+ },
+ {
+  "file": "PH1865(2).jpg",
+  "plates": [
+   {
+    "text": "PH1865",
+    "confidence": 0.9466,
+    "rear": false,
+    "detection": 0.8821
+   }
+  ]
+ },
+ {
+  "file": "PH3197.jpg",
+  "plates": [
+   {
+    "text": "PH3197",
+    "confidence": 0.8581,
+    "rear": false,
+    "detection": 0.9092
+   }
+  ]
+ },
+ {
+  "file": "PH3197_OR_PE7419.jpg",
+  "plates": [
+   {
+    "text": "PE7419",
+    "confidence": 0.9401,
+    "rear": false,
+    "detection": 0.9005
+   },
+   {
+    "text": "PH3197",
+    "confidence": 0.9213,
+    "rear": false,
+    "detection": 0.8741
+   }
+  ]
+ }
+]
